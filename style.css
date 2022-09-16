@@ -1,0 +1,88 @@
+body{
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: justify;
+}
+    
+h1{
+    color: black;
+    font-family: serif;
+    font-weight: bold;
+    text-align: left;
+    font-size: 80px;
+    font-style: italic;
+    margin-top: 0;
+}
+
+h2{
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: left;
+    font-size: 30px;
+    font-style: normal;
+    padding-top: 40px;
+    text-decoration: underline;
+}
+
+h3{
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: left;
+    font-size: 22px;
+    font-style: normal;
+    margin: 24px 0 10px 0; 
+}
+    
+h4{
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: left;
+    font-size: 20px;
+    font-style: normal;
+    margin-bottom: 0;
+}
+
+.HighLight {
+    background-color: rgba(0, 255, 255, 0.089);
+    padding: 30px 3%;
+    overflow: auto;
+}
+
+.Introduction{
+    margin-top: 40px;
+}
+
+.NextText {
+    padding: 30px 3%;
+}
+
+ul{
+    margin: 0 0 20px 0;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 0 0 0 10% ;
+    float: right;
+    margin: 20px 0 20px 20px;
+}
+ 
+table{
+    font-family: sans-serif;        
+    text-align: left;
+}
+
+td{
+    padding-right: 20px;
+}
+
+footer{
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 1px;
+}
